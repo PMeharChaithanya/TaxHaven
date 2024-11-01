@@ -31,7 +31,7 @@ export const AppLayout: React.FC<AppLayoutProps> = ({ children }) => {
           <div className="flex justify-between items-center">
             <div className="flex items-center space-x-8">
               <Link to="/" className="text-2xl font-bold text-blue-600 hover:text-blue-700">
-                 Tax Haven
+                Tax Haven
               </Link>
               <div className="hidden md:flex space-x-4">
                 <NavLink to="/business">Business</NavLink>

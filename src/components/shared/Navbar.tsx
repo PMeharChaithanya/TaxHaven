@@ -21,7 +21,7 @@ export const Navbar: React.FC = () => {
       <div className="max-w-7xl mx-auto px-4">
         <div className="flex items-center justify-between h-16">
           <Link to="/" className="font-bold text-xl text-blue-600">
-             Tax Haven
+            Tax Haven
           </Link>
           
           <div className="flex items-center gap-6">

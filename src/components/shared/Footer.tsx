@@ -8,7 +8,7 @@ export const Footer: React.FC = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
             <h3 className="font-bold text-lg mb-4">Tax Haven</h3>
-            <p className="text-gray-600">Created by Mehar Chaithanya P</p>
+            <p className="text-gray-600">Making tax planning accessible for everyone</p>
           </div>
           
           <div>
@@ -37,7 +37,7 @@ export const Footer: React.FC = () => {
         </div>
         
         <div className="mt-8 pt-8 border-t border-gray-200 text-center text-gray-600">
-          <p>© {new Date().getFullYear()} Tax Haven. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Tax Haven. Made by P Mehar Chaithanya. All rights reserved.</p>
         </div>
       </div>
     </footer>

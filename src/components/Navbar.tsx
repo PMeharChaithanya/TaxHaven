@@ -7,7 +7,7 @@ export const Navbar: React.FC = () => {
       <div className="container mx-auto px-4 py-4">
         <div className="flex justify-between items-center">
           <Link to="/" className="text-2xl font-bold text-blue-600">
-            DAN's Tax Haven
+            Tax Haven
           </Link>
           <div className="flex space-x-6">
             <Link to="/business" className="text-gray-600 hover:text-blue-600">
