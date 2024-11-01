@@ -1,34 +1,34 @@
-# SavageTax Haven
+Tax Haven
 
 A comprehensive tax planning and optimization platform created by Mehar Chaithanya P.
 
 ## Features
 
-### 🧮 Smart Tax Calculators
+### Smart Tax Calculators
 - Business Tax Calculator
 - Salaried Tax Calculator
 - Real-time tax optimization suggestions
 - Support for both old and new tax regimes
 
-### 🤖 AI Tax Assistant
+###  AI Tax Assistant
 - Powered by Google's Gemini AI
 - Natural language tax queries
 - Personalized tax planning advice
 - Legal guidance and citations
 
-### ⚖️ Legal Explorer
+### ⚖ Legal Explorer
 - Tax law interpretations
 - Grey area strategies
 - Risk assessments
 - Compliance guidance
 
-### 📊 Tax Planning Tools
+###  Tax Planning Tools
 - Investment recommendations
 - Deduction optimizer
 - Tax saving calendar
 - Deadline reminders
 
-### 🔒 Security & Privacy
+###  Security & Privacy
 - End-to-end encryption
 - Secure data storage
 - Privacy-first approach
